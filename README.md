@@ -121,7 +121,7 @@ Score: 0  Solution :  Artificial Intelligence<br>
 
 <h1> OUTPUT </h1>
 
-<img width="532" height="521" alt="image" src="https://github.com/user-attachments/assets/4eb66c2c-2943-43a7-9b4c-2451527c7c3f" />
+<img width="493" height="528" alt="image" src="https://github.com/user-attachments/assets/b746fdb2-580a-47cc-bc69-6f08f0e2150b" />
 
 <h1> RESULT </h1>
 
